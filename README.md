@@ -1,4 +1,5 @@
-hsrabin
-=======
+Haskell Implementation of Rabin Finger Printing
 
-Haskell implementation of Rabin finger printing
+=====================================
+
+The intention is to end up with a library that can deduplicate a file using Rabin fingerprinting.
